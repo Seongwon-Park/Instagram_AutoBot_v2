@@ -2,7 +2,7 @@
 Using selenium of python
 
 ## Youtube Link
-Video : [[Youtube]()]
+Video : [[Youtube](https://youtu.be/SNVXSpRYyGc)]
 
 # 목표
 * 인스타그램 봇을 이용하여 "맞팔", "선팔하면 맞팔해요" 등의 태그를 올린 유저를 
